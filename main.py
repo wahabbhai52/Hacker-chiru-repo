@@ -89,7 +89,7 @@ async def start_command(bot: Client, message: Message):
 <blockquote>🌟 <b>Welcome Buddy....! ☠️!</b> 🌟</blockquote><br><br>
 
 /help <b>to know about all the commonds</b> 📄 <br><br>
-<b>Contact Me</b> [🅱🅴🅰🆂🆃 👑](tg://user?id=7517045929)<b>to Get The Subscription</b> 🎫<br>
+<b>Contact Me</b> [🅱🅴🅰🆂🆃 👑](tg://openmessage?user_id=7660860610)<b>to Get The Subscription</b> 🎫<br>
 """)
     await asyncio.sleep(1)
     await loading_message.edit_text(
@@ -351,7 +351,7 @@ async def guide_handler(client: Client, message: Message):
       "/add_channel : To add New Channel\n"
       "/remove_channel : To remove all the channels\n"
       "/myplan : To check Your Active Membership\n\n"
-      "Contact Me For Premium : [🅱🅴🅰🆂🆃 👑](tg://user?id=7660860610) "
+      "Contact Me For Premium : [🅱🅴🅰🆂🆃 👑](tg://openmessage?user_id=7660860610) "
     )
     await message.reply_text(guide_text)
 
