@@ -62,14 +62,14 @@ keyboard = InlineKeyboardMarkup(
 # Image URLs for the random image feature
 image_urls = [
     
-    "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
-    "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
-    "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
-    "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
-    "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
-    "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
-    "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
-    "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
+    "https://ibb.co/sp9SDHj4/1000003297-3",
+    "https://ibb.co/sp9SDHj4/1000003297-3",
+    "https://ibb.co/sp9SDHj4/1000003297-3",
+    "https://ibb.co/sp9SDHj4/1000003297-3",
+    "https://ibb.co/sp9SDHj4/1000003297-3",
+    "https://ibb.co/sp9SDHj4/1000003297-3",
+    "https://ibb.co/sp9SDHj4/1000003297-3",
+    "https://ibb.co/sp9SDHj4/1000003297-3",
     # Add more image URLs as needed
 ]
 # Start command handler
