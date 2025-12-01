@@ -221,7 +221,7 @@ async def remove_user(client, message: Message):
     except ValueError:
         await message.reply_text("Invalid command format. Use: /removeuser <user_id>")
 
-YOUR_ADMIN_ID = 7517045929
+YOUR_ADMIN_ID = 7660860610
 
 # Helper function to check admin privilege
 def is_admin(user_id):
@@ -346,12 +346,12 @@ async def guide_handler(client: Client, message: Message):
       "/start : To Check Bot Is Alive Or Not\n"
       "/drm : To Upload .txt File\n"
       "/stop : To Stop The Current Operation\n"
-      "/adduser : To Add New User ex: /adduser 7645123456 23/08/2025\n"
+      "/adduser : To Add New User ex: /adduser 7660860610 23/08/2025\n"
       "/removeuser : To Remove User\n"
       "/add_channel : To add New Channel\n"
       "/remove_channel : To remove all the channels\n"
       "/myplan : To check Your Active Membership\n\n"
-      "Contact Me For Premium : [🅱🅴🅰🆂🆃 👑](tg://user?id=7517045929) "
+      "Contact Me For Premium : [🅱🅴🅰🆂🆃 👑](tg://user?id=7660860610) "
     )
     await message.reply_text(guide_text)
 
